@@ -5,7 +5,7 @@ Auto Installer to add your domain and install SSL with Let's Encrypt on your ser
 
 CentOS 6 & 7
 ```bash
-$ wget https://raw.githubusercontent.com/teguhmicro/Nginx-vHost-Auto-Installer-with-SSL-by-Let-s-Encrypt/master/vhost.sh -O vhost.sh
+$ wget https://raw.githubusercontent.com/bramantya/Nginx-vHost-Auto-Installer-with-SSL-by-Let-s-Encrypt/master/vhost.sh -O vhost.sh
 $ bash vhost.sh
 ```
 
