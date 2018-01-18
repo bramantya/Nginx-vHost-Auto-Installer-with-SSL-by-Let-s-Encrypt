@@ -8,6 +8,8 @@ CentOS 6 & 7
 $ wget https://raw.githubusercontent.com/bramantya/Nginx-vHost-Auto-Installer-with-SSL-by-Let-s-Encrypt/master/vhost.sh -O vhost.sh
 $ bash vhost.sh
 ```
+## Original Source on Github ##
+Link : https://github.com/teguhmicro
 
 ## MIT License ##
 
